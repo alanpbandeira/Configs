@@ -1,0 +1,21 @@
+background_opacity: 0.9
+
+env:
+  TERM: xterm-256color
+
+shell:
+  program: ubuntu2004.exe
+
+font:
+  normal:
+    family: "FiraCode NF"
+    style: Regular
+  italic:
+    family: "FiraCode NF"
+    style: Italic
+  bold:
+    family: "FiraCode NF"
+    style: Bold  
+  bold_italic:
+    family: "FiraCode NF"
+    style: Bold Italic
